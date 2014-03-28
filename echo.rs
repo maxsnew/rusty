@@ -5,8 +5,7 @@ fn main() {
     let start         = if print_newline { 1 } else { 2 };
     
     for i in range(start, args.len()) {
-        print(args[i]);
-        print(" ");
+        print!("{} ", args[i]);
     };
     if print_newline {
         print("\n");

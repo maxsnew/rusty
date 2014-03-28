@@ -2,3 +2,4 @@
 *.dSYM/
 *.ll
 *.bc
+echo

@@ -3,3 +3,5 @@
 *.ll
 *.bc
 echo
+rpn/calc
+markov/text_gen
